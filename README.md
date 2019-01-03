@@ -1,0 +1,1 @@
+This is a project to build the look alike of the Google homepage, it is accordance to the odin project curriculum
